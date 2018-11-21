@@ -1,4 +1,4 @@
-#!/Users/TremayneMiller/Projects/Envs/Qonvoi/bin/python3
+#!/Users/sageshinobi/Documents/Repositories/Personal/Qonvoi/QonvoiENV/bin/python
 from django.core import management
 
 if __name__ == "__main__":
