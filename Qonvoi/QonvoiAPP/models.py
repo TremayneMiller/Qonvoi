@@ -30,7 +30,7 @@ class Mentee(models.Model):
     date_added = models.DateTimeField(auto_now_add=True)
 
     class Meta:
-        verbose_name_plural = 'mentors'
+        verbose_name_plural = 'mentees'
 
     def __str__(self):
         # Shows all record links
